@@ -1,16 +1,34 @@
-# travel_app
+# ✈️ Travel App
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk menampilkan halaman login dan menu utama destinasi wisata populer di Indonesia 🌴  
+Dibuat oleh **Muhamad Soleh (NIM: 232101263)**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ Tampilan Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+### 🔐 Halaman Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Login Page](assets/screenshots/login.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🏠 Halaman Utama
+
+![Home Page](assets/screenshots/home.png)
+
+---
+
+## ⚙️ Fitur Utama
+
+- Login sederhana (belum terhubung ke backend)
+- Tampilan utama dengan background dan daftar destinasi
+- Tombol booking (Hotel, Pesawat, Kegiatan, Bus, Kereta)
+- Ulasan destinasi populer dengan rating
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Pastikan Flutter sudah terinstal:
+   ```bash
+   flutter --version
+   ```
